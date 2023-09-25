@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andygh86&label=Profile%20views&color=0e75b6&style=flat" alt="andygh86" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andygh86" alt="andygh86" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/andy_586" target="blank"><img src="https://img.shields.io/twitter/follow/andy_586?logo=twitter&style=for-the-badge" alt="andy_586" /></a> </p>
 
 - 🌱 I’m currently learning **HTML5, CSS, JAVASCRIPT, PYTHON**
