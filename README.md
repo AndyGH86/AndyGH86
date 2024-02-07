@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andygh86&label=Profile%20views&color=0e75b6&style=flat" alt="andygh86" /> </p>
 
-<p align="left"> <a href="https://twitter.com/andy_586" target="blank"><img src="https://img.shields.io/twitter/follow/andy_586?logo=twitter&style=for-the-badge" alt="andy_586" /></a> </p>
+
 
 - 📫 How to reach me **andersongh1986@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/andy_586" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="andy_586" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/anderson-gonzalez-1ba484277" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anderson gonzalez" height="30" width="40" /></a>
 <a href="https://instagram.com/andy_2604" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="andy_2604" height="30" width="40" /></a>
 </p>
